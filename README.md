@@ -23,7 +23,8 @@ This project includes a QR Code on a white background that takes you to frontend
 
 ### Screenshot
 
-[](images/qrCodeImage.png)
+<img width="1280" alt="qrCodeImage" src="https://user-images.githubusercontent.com/72939377/158261364-618c0f16-e590-496a-abac-bdd6d2b20608.png">
+
 
 ### Links
 
