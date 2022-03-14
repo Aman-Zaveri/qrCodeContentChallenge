@@ -28,8 +28,8 @@ This project includes a QR Code on a white background that takes you to frontend
 
 ### Links
 
-[Solution URL](http://127.0.0.1:5501/index.html)
-[Live Site URL](https://aman-zaveri-qr-code-component-challenge.netlify.app/)
+- [Solution URL](http://127.0.0.1:5501/index.html)
+- [Live Site URL](https://aman-zaveri-qr-code-component-challenge.netlify.app/)
 
 ### Built with
 
